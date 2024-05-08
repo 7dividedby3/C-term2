@@ -1,0 +1,4 @@
+BDDBC DBDAB CCCBB ABBD
+head=p2->next
+p2=p1->next
+p1=p2
