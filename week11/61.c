@@ -1,6 +1,6 @@
 void ReadArticle(FILE *f)
 {
-    char ch;
-    while((ch=fgetc(f))!=EOF)
-        putchar(ch);
+    char c;
+    while((c=fgetc(f))!=EOF)
+        putchar(c);
 }
